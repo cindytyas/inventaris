@@ -1,0 +1,31 @@
+* {
+  font-family: "Nunito", sans-serif;
+}
+body {
+  padding-top: 80px;
+}
+
+.card .card-header {
+  font-weight: 700;
+  color: #f4f4f4;
+  background-color: #9B849B;
+}
+
+.card .card-header h4 {
+  font-weight: 700;
+  color: #f4f4f4;
+  background-color: #9B849B;
+}
+
+.navbar {
+  background-color: #9B849B;
+}
+
+.navbar a {
+  font-weight: 700;
+}
+
+.navbar .nav-link {
+  font-weight: 500;
+  color: #f4f4f4;
+}
